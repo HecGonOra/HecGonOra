@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HecGonOra
-- 👀 I’m interested in IA, Datascience, C#, Java ...
+- 👀 I’m interested in Datascience, Java, C# ...
 - 🌱 I’m currently learning everithing
 - 💞️ I’m not looking to collaborate, I'm very busy now
 
